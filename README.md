@@ -3,6 +3,7 @@
 ## Main Page
 
 ![all](https://user-images.githubusercontent.com/96900698/201298547-daa566bf-a4f5-49f7-a92d-768720a0a1d8.PNG)
+### If you click on the project you can see the details
 
 ## Add New Project
 
